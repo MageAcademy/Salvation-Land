@@ -1,0 +1,388 @@
+﻿{
+    "operatorsProperty": [
+        {
+            "currentHealth": 3,
+            "currentMapIndex": 0,
+            "currentSkillLevel": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "index": 0,
+            "maxHealth": 3,
+            "maxSkillLevel": [
+                4,
+                4,
+                4,
+                4
+            ],
+            "name": "爆破手",
+            "skillCooldown": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillIndex": [
+                0,
+                3,
+                4,
+                5
+            ],
+            "skillPoint": 3
+        },
+        {
+            "currentHealth": 3,
+            "currentMapIndex": 0,
+            "currentSkillLevel": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "index": 1,
+            "maxHealth": 3,
+            "maxSkillLevel": [
+                4,
+                4,
+                4,
+                4
+            ],
+            "name": "野兽",
+            "skillCooldown": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillIndex": [
+                0,
+                3,
+                4,
+                5
+            ],
+            "skillPoint": 3
+        },
+        {
+            "currentHealth": 3,
+            "currentMapIndex": 0,
+            "currentSkillLevel": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "index": 2,
+            "maxHealth": 3,
+            "maxSkillLevel": [
+                4,
+                4,
+                4,
+                4
+            ],
+            "name": "士官长",
+            "skillCooldown": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillIndex": [
+                0,
+                3,
+                4,
+                5
+            ],
+            "skillPoint": 3
+        },
+        {
+            "currentHealth": 3,
+            "currentMapIndex": 0,
+            "currentSkillLevel": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "index": 3,
+            "maxHealth": 3,
+            "maxSkillLevel": [
+                4,
+                4,
+                4,
+                4
+            ],
+            "name": "雷神",
+            "skillCooldown": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillIndex": [
+                0,
+                3,
+                4,
+                5
+            ],
+            "skillPoint": 3
+        },
+        {
+            "currentHealth": 3,
+            "currentMapIndex": 0,
+            "currentSkillLevel": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "index": 4,
+            "maxHealth": 3,
+            "maxSkillLevel": [
+                4,
+                4,
+                4,
+                4
+            ],
+            "name": "战争机器",
+            "skillCooldown": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillIndex": [
+                0,
+                3,
+                4,
+                5
+            ],
+            "skillPoint": 3
+        },
+        {
+            "currentHealth": 3,
+            "currentMapIndex": 0,
+            "currentSkillLevel": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "index": 5,
+            "maxHealth": 3,
+            "maxSkillLevel": [
+                4,
+                4,
+                4,
+                4
+            ],
+            "name": "星舰长",
+            "skillCooldown": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillIndex": [
+                0,
+                3,
+                4,
+                5
+            ],
+            "skillPoint": 3
+        },
+        {
+            "currentHealth": 3,
+            "currentMapIndex": 0,
+            "currentSkillLevel": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "index": 6,
+            "maxHealth": 3,
+            "maxSkillLevel": [
+                4,
+                4,
+                4,
+                4
+            ],
+            "name": "女猎手",
+            "skillCooldown": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillIndex": [
+                0,
+                3,
+                4,
+                5
+            ],
+            "skillPoint": 3
+        },
+        {
+            "currentHealth": 3,
+            "currentMapIndex": 0,
+            "currentSkillLevel": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "index": 7,
+            "maxHealth": 3,
+            "maxSkillLevel": [
+                4,
+                4,
+                4,
+                4
+            ],
+            "name": "探险者",
+            "skillCooldown": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillIndex": [
+                0,
+                3,
+                4,
+                5
+            ],
+            "skillPoint": 3
+        },
+        {
+            "currentHealth": 3,
+            "currentMapIndex": 0,
+            "currentSkillLevel": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "index": 8,
+            "maxHealth": 3,
+            "maxSkillLevel": [
+                4,
+                4,
+                4,
+                4
+            ],
+            "name": "药剂师",
+            "skillCooldown": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillIndex": [
+                0,
+                3,
+                4,
+                5
+            ],
+            "skillPoint": 3
+        },
+        {
+            "currentHealth": 3,
+            "currentMapIndex": 0,
+            "currentSkillLevel": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "index": 9,
+            "maxHealth": 3,
+            "maxSkillLevel": [
+                4,
+                4,
+                4,
+                4
+            ],
+            "name": "剑士",
+            "skillCooldown": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillIndex": [
+                0,
+                6,
+                4,
+                5
+            ],
+            "skillPoint": 3
+        },
+        {
+            "currentHealth": 3,
+            "currentMapIndex": 0,
+            "currentSkillLevel": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "index": 10,
+            "maxHealth": 3,
+            "maxSkillLevel": [
+                4,
+                4,
+                4,
+                4
+            ],
+            "name": "魅影",
+            "skillCooldown": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillIndex": [
+                0,
+                3,
+                4,
+                5
+            ],
+            "skillPoint": 3
+        },
+        {
+            "currentHealth": 3,
+            "currentMapIndex": 0,
+            "currentSkillLevel": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "index": 11,
+            "maxHealth": 3,
+            "maxSkillLevel": [
+                4,
+                4,
+                4,
+                4
+            ],
+            "name": "格斗家",
+            "skillCooldown": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillIndex": [
+                0,
+                3,
+                4,
+                5
+            ],
+            "skillPoint": 3
+        }
+    ]
+}
